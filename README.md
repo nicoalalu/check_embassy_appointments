@@ -49,10 +49,10 @@ Este proyecto tiene como objetivo scrapear la página de la Embajada de España 
     - Crea un archivo `requirements.txt` en la raíz del proyecto con el siguiente contenido:
 
         ```plaintext
-    requests
-    beautifulsoup4
-    telebot
-    configparser
+        requests
+        beautifulsoup4
+        telebot
+        configparser
 
         ```
 
